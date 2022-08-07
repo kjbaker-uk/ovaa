@@ -11,7 +11,7 @@ public class LoginUtils {
     private static final String EMAIL_KEY = "email";
     private static final String PASSWORD_KEY = "password";
     private static final String LOGIN_URL_KEY = "login_url";
-    public static String AWS_SECRET_KEY = "12345678"
+    public static String AWS_SECRET_KEY = "12345678";
 
     private static LoginUtils utils;
 
